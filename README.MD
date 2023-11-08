@@ -10,11 +10,11 @@ requires python 3 and pip
 pip install mkdocs
 pip install mkdocs-windmill
 ```
-
+run `mkdocs serve` to run it locally
 
 
 # how 2 contribute
-- clone the project and run `mkdocs serve` to run it locally
+- fork the project
 - look in the `mkdocs.yml` file to know which files are for which links
-- edit the md and yaml file(s) (should be self explanatory)
+- edit the md and yaml file(s) (don't edit the /site folder files) 
 - submit a pull request so we can merge it
