@@ -1,0 +1,16 @@
+site_name: wiki.gdyu.club
+nav:
+  - Home: index.md
+  - Faq: faq.md
+  - How to make games: makegames.md
+  - Tools: tools.md
+  - DATT-resources: dm-resources
+  - Archives: archives.md
+theme:
+  name: windmill
+  #features:
+  #- navigation.top.cursor_animation.hide
+  #- footer.prev_next
+  #- navigation.top.cursor_animation.hide
+  #- revision.date
+  #- revision.history
