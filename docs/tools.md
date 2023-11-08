@@ -1,6 +1,8 @@
 # --Game Engines--
 
 ## Godot
+<img src="../assets/icon_color.png" alt="godot logo" width ="200" height="auto">
+
 - description
 
 # --Game Libraries--

@@ -4,7 +4,7 @@ nav:
   - Faq: faq.md
   - How to make games: makegames.md
   - Tools: tools.md
-  - DATT-resources: dm-resources
+  - DATT Resources: dm-resources
   - Archives: archives.md
 theme:
   name: windmill
