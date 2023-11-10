@@ -18,4 +18,4 @@ GDYU is an acronym for Game Devs @ YorkU. We're York Universities Game developme
 - You can formally apply to join us through [YU Connect](https://yorku.campuslabs.ca/engage/organization/gdyuclub), although just joining the server and coming to our events is fine enough.
 
 ## How do I make a game?
-- This answer is a little longer so it get's it's [own page](#makegames) 
+- This answer is a little longer so it get's it's [own page](wiki.gdyu.club/#makegames) 

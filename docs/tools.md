@@ -1,48 +1,29 @@
-# --Game Engines--
+# Tools to make games
+- Extremely WIP
+- Don't see your favorite tool here? [Add it!](https://github.com/GDYUClub/gdyu-wiki)
+## Game Engines
 
-## Godot
-<img src="../assets/icon_color.png" alt="godot logo" width ="200" height="auto">
+### Godot
+<img src="../assets/icon_color.png" alt="godot logo" width ="100" height="auto">
 
-- description
+- Price: FOSS
+- Language Support: GDScript, C#, C++ 
+- 2D and 3D support
+#### Learning Resources:
+- [Tutorial in documentation](https://docs.godotengine.org/en/stable/getting_started/introduction/index.html)
 
-# --Game Libraries--
+## Game Libraries
 
-## Raylib
+## Game Engines/Libraries for specific Genres
 
-# --Game tools for specific Genres--
+## Making 2d art assets
 
-## RPGMaker
+## Making 3d art assets
 
-# --Finding 2d art assets--
+## Finding audio assets 
 
-## Opengameart
+## Making audio assets
 
-# --Making 2d art assets--
+## Making Game Narratives
 
-## Aseprite
-
-# --Finding 3d art assets--
-
-## itch.io
-
-# --Making 3d art assets--
-
-## Blender
-
-# --Finding audio assets-- 
-
-## somewhere
-
-# --Making audio assets--
-
-## LMMS
-
-# --Making Game Narratives--
-
-## Obsidian
-
-# --Organizing your project--
-
-## Git!!! Please use Git!!!
-
-# --Learning Game Design--
+## Organizing your project
