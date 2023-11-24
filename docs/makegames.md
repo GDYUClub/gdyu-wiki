@@ -2,16 +2,16 @@
 
 Making games is very fun, and not as difficult as it seems.
 
-If you're interested in trying game dev out, i've broken down giving it a try into actionable steps, taking advice from people I've seen learn game development as well as my own personal experiences. 
+If you're interested in trying game dev out, I (GDYU President Jayden) have tried to make a list of actionable steps, taking advice from people I've seen learn game development as well as my own personal experiences. 
 
 ## Step 1: Learn to code.
-Assuming you're working by yourself. Video games are computer software, and somebody at some point needs to write the software (although depending on the tools you use to make the game, more or less programming will be required). This isn't a required step, some people have learned to code though making games, but depending on what you want to make and what you want to use, taking the time to set up a programming foundation outside of game development could be useful.
+That is, assuming you're working by yourself. Video games are computer software, and somebody at some point needs to write the code that the software is made of (although depending on the tools you use to make the game, more or less programming will be required). This isn't a required step, some people have learned to code though making games, but depending on what you want to make and what you want to use, taking the time to set up a programming foundation outside of game development could be useful.
 
 
 ## Step 2: Pick something to make games with
 The software you'll use to develop your game.
 
-Pick Godot. If you want to be a free thinker instead, you can read the rest of this section.
+Pick Godot. If you're a Digital Media student, then you probably have Unity experience already and can stick with that (but should give godot a try). If you want to be a free thinker instead, you can read the rest of this section.
 
 
 ### Engine or a Library 
@@ -35,7 +35,7 @@ You should use a game engine if:
 - You want to make 3d games (you *can* make 3d games with a library but... that's rough).
 - You don't mind learning a new system that extends your existing programming skills.
 
-A (hopefully exhaustive) list of engines and libraries is available [here](/docs/tools.md)
+A list of our engine and library recommendations is available [here](/tools)
 
 And if you still can't decide, then pick godot!
 
@@ -61,6 +61,3 @@ Now about that dream game of yours. I have no idea what it is so I can't really 
 to find jams, check out the resources
 
 So get to making games!!!
-
-## Step 5: Learn how to make fun games (wip)
-Still figuring this one out myself!!!
