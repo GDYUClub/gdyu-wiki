@@ -4,6 +4,16 @@ I had simply linked to the [magic tools repo](https://github.com/ellisonleao/mag
 If none of the tools here suit your needs, check out the [magic tools repo](https://github.com/ellisonleao/magictools)
 
 Don't see your favorite tool here? [Add it!](https://github.com/GDYUClub/gdyu-wiki)
+
+## Generic Learning Resources
+Things to teach you general concepts not specific to any one tool or language.
+
+### [Video Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
+- A great book about data structures, and programming patterns commonly used to build good codebases.
+
+### [Amit's Game Programming information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
+- Webpage filled with a collection of other game development resources
+
 ## Game Engines
 
 ### [Godot](https://godotengine.org/)
@@ -23,9 +33,9 @@ Don't see your favorite tool here? [Add it!](https://github.com/GDYUClub/gdyu-wi
 - someone fill this out!
 
 ### [Unreal](https://www.unrealengine.com/en-US)
-- Free 3d game engine (you can also do 2d in it, but there are much better tools for that)
-- It's a big boy, you've probably seen the unreal engine logo in front of some major AAA video games.
-- It's huge and demands a beefy computer, but if you're looking for *Big Graphics*, this is the engine for that.
+- Free 3d game engine (you can also do 2d in it, but it's not designed for it and it's kinda overkill)
+- It's a big boy for big games, you've definitely seen the unreal engine logo in front of some major AAA video games.
+- It's huge and demands a beefy computer, but if you're really looking for *Big Graphics*, this is the engine for that.
 #### Learning Resources
 - someone fill this out!
 
@@ -35,25 +45,38 @@ Don't see your favorite tool here? [Add it!](https://github.com/GDYUClub/gdyu-wi
 
 ## Finding 2d art 
 
+### [OpenGameart.org](https://opengameart.org/)
+- Free and Generally open source art assets.
+
 ## Making 2d art 
+
+### [Aseprite](https://www.aseprite.org/)
+- Very good pixel art software
+- Not free, but comes with a trial version, (although with a little effort and a C compiler you can build it from the [source code](https://github.com/aseprite/aseprite).)
+- But buy it if you can.
+#### Learning Resources
+- someone fill this out!
 
 ## Finding 3d art 
 
+### [OpenGameart.org](https://opengameart.org/)
+- Free and Generally open source art assets.
+
 ## Making 3d art 
 
+### [Blender](https://www.blender.org/)
+- Free and open source 3d Modeling software.
+- If you're interested in 3d you've certainly heard of it before.
+#### Learning Resources
+- someone fill this out!
+
 ## Finding audio  
+
+[OpenGameart.org](https://opengameart.org/)
+- Free and Generally open source art assets.
 
 ## Making audio 
 
 ## Writing Game Narratives
 
 ## Organizing your project
-
-## Generic Learning Resources
-Things to teach you general concepts not specific to any one tool or language.
-
-### [Video Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
-- A great book about data structures, and programming patterns commonly used to build good codebases.
-
-### [Amit's Game Programming information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
-- Webpage filled with a collection of other game development resources
