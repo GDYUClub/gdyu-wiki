@@ -14,6 +14,9 @@ Things to teach you general concepts not specific to any one tool or language.
 ### [Amit's Game Programming information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 - Webpage filled with a collection of other game development resources
 
+### [20 Games Challenge]('https://20_games_challenge.gitlab.io/challenge/')
+- a site with 10 game ideas that increase in complexity. Good list to work through if you're learning a new tool or want to practice making things without following tutorials 
+
 ## Game Engines
 
 ### [Godot](https://godotengine.org/)
@@ -30,7 +33,15 @@ Things to teach you general concepts not specific to any one tool or language.
 - Well not *everything*, but if it's an indie game from the last 15 years there's like a 80% chance it was made in Unity (Although that might change due to what's [happened recently](https://www.polygon.com/23885373/unity-technologies-install-fee-pricing-change))
 - Language support: C# (or any .NET language)
 #### Learning Resources
-- someone fill this out!
+2D flappy bird clone: https://youtu.be/XtQMytORBmM?si=RIUQkkHzaOzhPOYr
+3D first person shooter: https://youtu.be/gPPGnpV1Y1c?si=wflMZ7ZhNqg2U33E
+Then there are just YT channels in general that have lots of good tutorial content.
+https://www.youtube.com/@CodeMonkeyUnity
+https://www.youtube.com/@GMTK
+https://www.youtube.com/@samyam
+https://www.youtube.com/@Brackeys (Stopped making videos but known as the Unity tutorial god)
+https://www.youtube.com/@SamHogan
+https://www.youtube.com/@Blackthornprod
 
 ### [Unreal](https://www.unrealengine.com/en-US)
 - Free 3d game engine (you can also do 2d in it, but it's not designed for it and it's kinda overkill)
